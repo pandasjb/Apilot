@@ -12,7 +12,6 @@ from datetime import datetime, timedelta
 BASE_URL_VVHAN = "https://api.vvhan.com/api/"
 BASE_URL_ALAPI = "https://v2.alapi.cn/api/"
 
-
 @plugins.register(
     name="Apilot",
     desire_priority=88,
